@@ -1,1 +1,1 @@
-https://teachablemachine.withgoogle.com/models/TrsXgsjYz/
+//https://teachablemachine.withgoogle.com/models/TrsXgsjYz/
